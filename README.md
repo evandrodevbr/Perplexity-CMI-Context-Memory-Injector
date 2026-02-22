@@ -8,7 +8,7 @@
   [![Version](https://img.shields.io/badge/Version-1.6.0-blue.svg?style=flat-square)]()
   [![Platform](https://img.shields.io/badge/Platform-Perplexity%20AI-22d3ee.svg?style=flat-square)]()
   [![Script](https://img.shields.io/badge/Manager-Tampermonkey-00bc70.svg?style=flat-square&logo=tampermonkey)]()
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+  [![License: GNU](https://www.gnu.org/graphics/gfdl-logo-tiny.png)]((https://www.gnu.org/licenses/gpl-3.0.html))
 
   <br>
 
