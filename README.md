@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://www.perplexity.ai/favicon.ico" alt="Perplexity Logo" width="80" height="80" />
   
-  # Perplexity Context Memory Injector
+  # Perplexity Context Memory Enhancer
 
 **Persistent Memory & Custom Instructions System for Perplexity AI**
 
@@ -12,7 +12,7 @@
 
   <br>
 
-[![Install Now](https://img.shields.io/badge/🚀%20INSTALL%20DIRECTLY%20IN%20TAMPERMONKEY-282828?style=for-the-badge&logo=javascript&labelColor=22d3ee&color=1f1f1f)](https://raw.githubusercontent.com/evandrodevbr/Perplexity-CMI-Context-Memory-Injector/main/perplexity-memory.user.js)
+[![Install Now](https://img.shields.io/badge/🚀%20INSTALL%20DIRECTLY%20IN%20TAMPERMONKEY-282828?style=for-the-badge&logo=javascript&labelColor=22d3ee&color=1f1f1f)](https://raw.githubusercontent.com/evandrodevbr/Perplexity-CMI-Context-Memory-Enhancer/main/perplexity-memory.user.js)
 
 _(Requires the Tampermonkey / Violentmonkey extension installed in your browser)_
 
@@ -104,5 +104,5 @@ Direct injection into the `<textarea>` or via `document.execCommand` fails in mo
 This project is licensed under the MIT License - see the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
 
 <div align="center">
-<sub><b>SEO Search Tags:</b> <i>Perplexity AI Custom Instructions, Perplexity Memory Script, System Prompt Manager, Tampermonkey Perplexity, Greasemonkey, Lexical Editor Bypass, AI Context Injector, Prompt Engineering Tool, Perplexity Userscript.</i></sub>
+<sub><b>SEO Search Tags:</b> <i>Perplexity AI Custom Instructions, Perplexity Memory Script, System Prompt Manager, Tampermonkey Perplexity, Greasemonkey, Lexical Editor Bypass, AI Context Enhancer, Prompt Engineering Tool, Perplexity Userscript.</i></sub>
 </div>
